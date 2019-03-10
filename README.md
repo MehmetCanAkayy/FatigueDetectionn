@@ -1,5 +1,4 @@
 # FatigueDetectionn
-Yorgunluk Tespiti
 
 
 Requirement
