@@ -4,7 +4,7 @@ Yorgunluk Tespiti
 
 Requirement
 
-OpenCV
-Dlib
-Numpy
+OpenCV,
+Dlib,
+Numpy,
 Pandas
